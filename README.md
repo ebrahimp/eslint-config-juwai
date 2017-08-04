@@ -4,6 +4,5 @@ Juwai ESLint Config
 
 ## Setup
 
-yarn: `$ yarn add eslint-config-juwai -D`.
-
-npm: `$ npm install eslint-config-juwai --save-dev`.
+1. `$ npm install juwai/eslint-config-juwai --save-dev`.
+2. Add `eslint-config-juwai` into `extends` section in your ESLint configuration file.
