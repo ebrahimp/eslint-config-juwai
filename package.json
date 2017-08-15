@@ -1,0 +1,26 @@
+{
+  "name": "eslint-config-juwai",
+  "version": "1.0.2",
+  "description": "ESLint config for Juwai",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "juwai",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Juwai front-end",
+  "license": "MIT",
+  "dependencies": {
+    "eslint-config-airbnb-base": "^11.3.1",
+    "eslint-plugin-import": "^2.7.0"
+  },
+  "engines": {
+    "node": ">= 6"
+  }
+}
